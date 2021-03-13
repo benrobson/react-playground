@@ -1,6 +1,6 @@
-import Navbar from './Navbar';
-import Home from './Home';
-import Footer from './Footer';
+import Navbar from './modules/Navbar';
+import Home from './modules/Home';
+import Footer from './modules/Footer';
 
 function App() {
   return (
