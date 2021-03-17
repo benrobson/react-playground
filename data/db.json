@@ -1,22 +1,16 @@
 {
-    "blogs": [
-        {
-            "id": 1,
-            "title": "The First Blog",
-            "body": "This sounds like a great title for a first blog, I don't think anyone else can have a better title than this.",
-            "author": "CammyMD"
-        },
-        {
-            "id": 2,
-            "title": "The Blog: Electric Boogaloo",
-            "body": "Wow, I could make a better blog than this mate, poor form.",
-            "author": "shadowolfyt"
-        },
-        {
-            "id": 3,
-            "title": "The name is Jeff egg",
-            "body": "Who called my name?",
-            "author": "Egg"
-        }
-    ]
+  "blogs": [
+    {
+      "id": 1,
+      "title": "The First Blog",
+      "body": "This sounds like a great title for a first blog, I don't think anyone else can have a better title than this.",
+      "author": "CammyMD"
+    },
+    {
+      "id": 2,
+      "title": "The Blog: Electric Boogaloo",
+      "body": "Wow, I could make a better blog than this mate, poor form.",
+      "author": "shadowolfyt"
+    }
+  ]
 }
